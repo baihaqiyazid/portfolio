@@ -4,6 +4,8 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 
 ## Project
 
+- [Pest Classification using *CNN*](https://www.kaggle.com/myazidbaihaqi/pest-classification-using-cnn)
+- [Fashion Image Classification using *Aritificial Neural Network*](https://www.kaggle.com/myazidbaihaqi/fashion-image-classification-using-neural-network)
 - [Small MNIST Classification](https://www.kaggle.com/code/myazidbaihaqi/small-mnist-classification)
 - [Modeling Taxi Fare with *ElasticNet*](https://www.kaggle.com/code/myazidbaihaqi/taxi-fare-with-elasticnet)
 - [Modeling Taxi Fare with *Linear Regression & Polynomial Regression*](https://www.kaggle.com/myazidbaihaqi/modeling-taxi-fare-with-lr-polynomial-regression)
