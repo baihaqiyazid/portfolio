@@ -4,6 +4,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 
 ## Project
 
+- [Panorama Classification using MobileNet](https://www.kaggle.com/myazidbaihaqi/panorama-classification-using-mobilenet)
 - [Pest Classification using *CNN*](https://www.kaggle.com/myazidbaihaqi/pest-classification-using-cnn)
 - [Fashion Image Classification using *Aritificial Neural Network*](https://www.kaggle.com/myazidbaihaqi/fashion-image-classification-using-neural-network)
 - [Small MNIST Classification](https://www.kaggle.com/code/myazidbaihaqi/small-mnist-classification)
