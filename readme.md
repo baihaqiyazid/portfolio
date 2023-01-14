@@ -25,7 +25,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Support Vector Machine](https://medium.com/@baihaqiyazid16/support-vector-machine-cbb9571307b)
 - [Decision Tree dan Random Forest](https://medium.com/@baihaqiyazid16/decision-tree-dan-random-forest-7107515bdba6)
 - [Gradient Boosting & XGBoost](https://medium.com/@baihaqiyazid16/gradient-boosting-xgboost-1be43528a196)
--[Linear Regression |Polynomial Regression | Gradient Descent | Regression Evaluation | Scaling | Transform](https://medium.com/@baihaqiyazid16/linear-regression-gradient-descent-regression-metrics-7931a370cea6)
+- [Linear Regression |Polynomial Regression | Gradient Descent | Regression Evaluation | Scaling | Transform](https://medium.com/@baihaqiyazid16/linear-regression-gradient-descent-regression-metrics-7931a370cea6)
 - [Regularization | L1 Regularization | L2 Regularization | ElasticNet](https://medium.com/@baihaqiyazid16/regularization-l1-regularization-l2-regularization-elasticnet-bb5a83366acb)
 - [Classification Metrics](https://medium.com/@baihaqiyazid16/classification-metrics-3014ae23aba4)
 - [Gradient Descent](https://medium.com/@baihaqiyazid16/gradient-descent-5db01eed9411)
