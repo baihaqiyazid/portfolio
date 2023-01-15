@@ -4,10 +4,15 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 
 ## Project
 
-- [Panorama Classification using MobileNet](https://www.kaggle.com/myazidbaihaqi/panorama-classification-using-mobilenet)
+- [Panorama Classification using *MobileNet*](https://www.kaggle.com/myazidbaihaqi/panorama-classification-using-mobilenet)
 - [Pest Classification using *CNN*](https://www.kaggle.com/myazidbaihaqi/pest-classification-using-cnn)
 - [Fashion Image Classification using *Aritificial Neural Network*](https://www.kaggle.com/myazidbaihaqi/fashion-image-classification-using-neural-network)
 - [Small MNIST Classification](https://www.kaggle.com/code/myazidbaihaqi/small-mnist-classification)
+- [Topic Modeling with LSA and LDA](https://www.kaggle.com/myazidbaihaqi/topic-modeling-with-lsa-and-lda)
+- [Face Similiarity with PCA and SVC](https://www.kaggle.com/myazidbaihaqi/face-similiarity-with-pca-and-svc)
+- [Modeling Breast Cancer with Principal *Component Analysis(PCA) and SVC*](https://www.kaggle.com/myazidbaihaqi/modeling-breast-cancer-with-pca)
+- [Image Quantization using K-Means](https://www.kaggle.com/myazidbaihaqi/image-quantization-using-k-means)
+- [Customer Clustering using *KPrototypes*](https://www.kaggle.com/code/myazidbaihaqi/customer-clustering)
 - [Modeling Taxi Fare with *ElasticNet*](https://www.kaggle.com/code/myazidbaihaqi/taxi-fare-with-elasticnet)
 - [Modeling Taxi Fare with *Linear Regression & Polynomial Regression*](https://www.kaggle.com/myazidbaihaqi/modeling-taxi-fare-with-lr-polynomial-regression)
 - [Modeling Life Expectancy using *XGBRegressor*](https://www.kaggle.com/myazidbaihaqi/modeling-life-expectancy-using-xgbregressor)
@@ -34,6 +39,8 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Strukture Data Image](https://medium.com/@baihaqiyazid16/strukture-data-image-cf10ba32e9fe)
 - [Stuktur Data Text](https://medium.com/@baihaqiyazid16/stuktur-data-text-cc47f251d650)
 - [Neural Network](https://medium.com/@baihaqiyazid16/neural-network-6a7888477e54)
+- [Convolution Neural Network (CNN)](https://medium.com/@baihaqiyazid16/convolution-neural-network-cnn-1e5e2518c776)
+- [Clustering Algorithm](https://medium.com/@baihaqiyazid16/clustering-algorithm-1c80e18afa29)
 
 ### Statistics
 
