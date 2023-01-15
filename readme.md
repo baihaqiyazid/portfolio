@@ -7,6 +7,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Panorama Classification using *MobileNet*](https://www.kaggle.com/myazidbaihaqi/panorama-classification-using-mobilenet)
 - [Pest Classification using *CNN*](https://www.kaggle.com/myazidbaihaqi/pest-classification-using-cnn)
 - [Fashion Image Classification using *Aritificial Neural Network*](https://www.kaggle.com/myazidbaihaqi/fashion-image-classification-using-neural-network)
+- [Higher Dimension Visualization with tSNE](https://www.kaggle.com/myazidbaihaqi/higher-dimension-visualization-with-tsne)
 - [Small MNIST Classification](https://www.kaggle.com/code/myazidbaihaqi/small-mnist-classification)
 - [Topic Modeling with LSA and LDA](https://www.kaggle.com/myazidbaihaqi/topic-modeling-with-lsa-and-lda)
 - [Face Similiarity with PCA and SVC](https://www.kaggle.com/myazidbaihaqi/face-similiarity-with-pca-and-svc)
