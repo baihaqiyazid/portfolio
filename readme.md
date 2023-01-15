@@ -85,6 +85,6 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [English Grammar tense & Structure](https://drive.google.com/file/d/1ZQVSXUWjhxaPeDbca7aTr_W48WS7p-0j/view)
 
 ## Contact
-- email: baihaqiyazid16@gmail.com
-- linkedin: [Muhammad Yazid Baihaqi](https://www.linkedin.com/in/muhammad-yazid-baihaqi/)
+- Email: baihaqiyazid16@gmail.com
+- Linkedin: [Muhammad Yazid Baihaqi](https://www.linkedin.com/in/muhammad-yazid-baihaqi/)
 
