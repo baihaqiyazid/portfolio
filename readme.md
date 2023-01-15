@@ -7,6 +7,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Panorama Classification using *MobileNet*](https://www.kaggle.com/myazidbaihaqi/panorama-classification-using-mobilenet)
 - [Pest Classification using *CNN*](https://www.kaggle.com/myazidbaihaqi/pest-classification-using-cnn)
 - [Fashion Image Classification using *Aritificial Neural Network*](https://www.kaggle.com/myazidbaihaqi/fashion-image-classification-using-neural-network)
+- [Autoencoder](https://www.kaggle.com/myazidbaihaqi/autoencoder)
 - [Higher Dimension Visualization with *tSNE*](https://www.kaggle.com/myazidbaihaqi/higher-dimension-visualization-with-tsne)
 - [Small MNIST Classification](https://www.kaggle.com/code/myazidbaihaqi/small-mnist-classification)
 - [Topic Modeling with *LSA* and *LDA*](https://www.kaggle.com/myazidbaihaqi/topic-modeling-with-lsa-and-lda)
@@ -59,6 +60,19 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Confidence Interval](https://medium.com/@baihaqiyazid16/confidence-interval-4d68b9c6d071)
 - [Bootstrapping](https://medium.com/@baihaqiyazid16/bootstrapping-8e030cceb244)
 
+## Skills
+- Data Science
+- Machine Learning
+- Statistics
+- Python
+- SQL
+- Git/Github
+- HTML
+- Basic CSS
+- Boostrap
+- Laravel
+- Go 
+
 ## Certificates
 
 - [Associate Data Scientist ](https://drive.google.com/file/d/1QfOwQSQd1F4lrK7eJbNli4s1r7BMmgcs/view)
@@ -69,4 +83,8 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [R Fundamental for Data Science](https://drive.google.com/file/d/1XGFNEZ96hwDjc15faFIPrmiqbznK3n3v/view)
 - [Statistics using R for Fundamental](https://drive.google.com/file/d/1hqFCxkb8CcO0qjmKYluhVFk0BoVeLnXx/view)
 - [English Grammar tense & Structure](https://drive.google.com/file/d/1ZQVSXUWjhxaPeDbca7aTr_W48WS7p-0j/view)
+
+## Contact
+- email: baihaqiyazid16@gmail.com
+- linkedin: [Muhammad Yazid Baihaqi](https://www.linkedin.com/in/muhammad-yazid-baihaqi/)
 
