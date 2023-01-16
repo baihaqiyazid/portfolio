@@ -4,7 +4,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 
 ## Project
 
-- [Recommendation with *Content-based multiple filtering*](https://www.kaggle.com/myazidbaihaqi/content-based-multiple-filtering)
+- [Recommendation System with *Content-based multiple filtering*](https://www.kaggle.com/myazidbaihaqi/content-based-multiple-filtering)
 - [Recommendation System with *Demographic Filtering*](https://www.kaggle.com/myazidbaihaqi/demographic-filtering)
 - [Panorama Classification using *MobileNet*](https://www.kaggle.com/myazidbaihaqi/panorama-classification-using-mobilenet)
 - [Pest Classification using *CNN*](https://www.kaggle.com/myazidbaihaqi/pest-classification-using-cnn)
