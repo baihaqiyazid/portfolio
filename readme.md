@@ -14,6 +14,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Higher Dimension Visualization with *tSNE*](https://www.kaggle.com/myazidbaihaqi/higher-dimension-visualization-with-tsne)
 - [Small MNIST Classification](https://www.kaggle.com/code/myazidbaihaqi/small-mnist-classification)
 - [Topic Modeling with *LSA* and *LDA*](https://www.kaggle.com/myazidbaihaqi/topic-modeling-with-lsa-and-lda)
+- [SMS Spam Classification](https://www.kaggle.com/myazidbaihaqi/sms-spam-classification)
 - [Face Similiarity with *PCA* and *SVC*](https://www.kaggle.com/myazidbaihaqi/face-similiarity-with-pca-and-svc)
 - [Modeling Breast Cancer with *Principal Component Analysis(PCA) and SVC*](https://www.kaggle.com/myazidbaihaqi/modeling-breast-cancer-with-pca)
 - [Image Quantization using *K-Means*](https://www.kaggle.com/myazidbaihaqi/image-quantization-using-k-means)
