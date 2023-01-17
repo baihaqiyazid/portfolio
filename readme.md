@@ -1,6 +1,6 @@
 # Portfolio
 
-Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang mahasiswa S1 jurusan Informatika Universitas Al-Azhar Indonesia. Saya sangat suka bidang data, seperti Data Science, Data Analyst, Machine Learning. Saya sangat minat semua project yang terkait dibidang data, saat ini saya sedang suka dengan NLP dan saya sedang belajar bidang tersebut. Berikut ini adalah beberapa preoject dan pembelajaran saya yang saya tulis di medium saya.
+Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang mahasiswa S1 jurusan Informatika Universitas Al-Azhar Indonesia. Saya sangat suka bidang data, seperti Data Science, Data Analyst, Machine Learning. Saya sangat minat semua project yang terkait dibidang data, saat ini saya sedang suka dengan NLP dan saya sedang belajar bidang tersebut. Berikut ini adalah beberapa project dan pembelajaran saya yang saya tulis di medium saya.
 
 ## Project
 
