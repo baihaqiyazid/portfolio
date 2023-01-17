@@ -88,6 +88,12 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Statistics using R for Fundamental](https://drive.google.com/file/d/1hqFCxkb8CcO0qjmKYluhVFk0BoVeLnXx/view)
 - [English Grammar tense & Structure](https://drive.google.com/file/d/1ZQVSXUWjhxaPeDbca7aTr_W48WS7p-0j/view)
 
+## Media
+- Kaggle: https://www.kaggle.com/myazidbaihaqi
+- Github: https://github.com/baihaqiyazid
+- Medium: https://medium.com/@baihaqiyazid16
+- Twitter: https://twitter.com/baihaqy___?t=LJ01Zc1-BKbdC21EMAMpYw&s=09
+
 ## Contact
 - Email: baihaqiyazid16@gmail.com
 - Linkedin: [Muhammad Yazid Baihaqi](https://www.linkedin.com/in/muhammad-yazid-baihaqi/)
