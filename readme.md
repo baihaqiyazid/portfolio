@@ -92,7 +92,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - Kaggle: https://www.kaggle.com/myazidbaihaqi
 - Github: https://github.com/baihaqiyazid
 - Medium: https://medium.com/@baihaqiyazid16
-- Twitter: https://twitter.com/baihaqy___?t=LJ01Zc1-BKbdC21EMAMpYw&s=09
+- Twitter:https://twitter.com/baihaqy___
 
 ## Contact
 - Email: baihaqiyazid16@gmail.com
