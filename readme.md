@@ -15,6 +15,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Small MNIST Classification](https://www.kaggle.com/code/myazidbaihaqi/small-mnist-classification)
 - [Topic Modeling with *LSA* and *LDA*](https://www.kaggle.com/myazidbaihaqi/topic-modeling-with-lsa-and-lda)
 - [SMS Spam Classification](https://www.kaggle.com/myazidbaihaqi/sms-spam-classification)
+- [Data Selection with SQL](https://medium.com/@baihaqiyazid16/seleksi-data-dengan-sql-669bf443cf90)
 - [Face Similiarity with *PCA* and *SVC*](https://www.kaggle.com/myazidbaihaqi/face-similiarity-with-pca-and-svc)
 - [Modeling Breast Cancer with *Principal Component Analysis(PCA) and SVC*](https://www.kaggle.com/myazidbaihaqi/modeling-breast-cancer-with-pca)
 - [Image Quantization using *K-Means*](https://www.kaggle.com/myazidbaihaqi/image-quantization-using-k-means)
@@ -65,17 +66,23 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Bootstrapping](https://medium.com/@baihaqiyazid16/bootstrapping-8e030cceb244)
 
 ## Skills
-- Data Science
-- Machine Learning
-- Statistics
-- Python
-- SQL
-- Git/Github
-- HTML
-- Basic CSS
-- Boostrap
-- Laravel
-- Go 
+
+- Machine Learning *(Intermediate)*
+- Data Science *(Intermediate)*
+- Data Analysis *(Intermediate)*
+- Data Visualization *(Beginner)*
+- Statistics *(Intermediate)*
+- Python *(Intermediate)*
+- Pytorch *(Intermediate)*
+- SQL *(Intermediate)*
+- Git/Github *(Intermediate)*
+- Go *(Intermediate)*
+- HTML *(Intermediate)*
+- CSS *(Beginner)*
+- Boostrap *(Intermediate)*
+- Laravel *(Beginner)*
+- Postman API *(Beginner)*
+- ReactJs *(Beginner)* 
 
 ## Certificates
 
