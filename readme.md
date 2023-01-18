@@ -67,22 +67,10 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 
 ## Skills
 
-- Machine Learning *(Intermediate)*
-- Data Science *(Intermediate)*
-- Data Analysis *(Intermediate)*
-- Data Visualization *(Beginner)*
-- Statistics *(Intermediate)*
-- Python *(Intermediate)*
-- Pytorch *(Intermediate)*
-- SQL *(Intermediate)*
-- Git/Github *(Intermediate)*
-- Go *(Intermediate)*
-- HTML *(Intermediate)*
-- CSS *(Beginner)*
-- Boostrap *(Intermediate)*
-- Laravel *(Beginner)*
-- Postman API *(Beginner)*
-- ReactJs *(Beginner)* 
+`Data Science` `Data Analysis` `Data Visualization` 
+`Statistics`  `Python` `Pytorch` `SQL` `Git/Github` 
+`Go` `HTML`  `CSS` `Boostrap`  `Laravel` 
+`Postman API` `ReactJs` 
 
 ## Certificates
 
