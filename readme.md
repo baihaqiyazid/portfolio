@@ -24,7 +24,7 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - [Modeling Taxi Fare with *Linear Regression & Polynomial Regression*](https://www.kaggle.com/myazidbaihaqi/modeling-taxi-fare-with-lr-polynomial-regression)
 - [Modeling Life Expectancy using *XGBRegressor*](https://www.kaggle.com/myazidbaihaqi/modeling-life-expectancy-using-xgbregressor)
 - [House Price Prediction using *Random Forest Regressor*](https://www.kaggle.com/myazidbaihaqi/house-price-prediction-using-rfregressor)
-- [Mobile Price Classification using *Random Forest Classifier*](https://www.kaggle.com/myazidbaihaqi/price-mobile-classification-using-rfc)
+- [Mobile Price Classification using *Random Forest Classifier*](https://www.kaggle.com/myazidbaihaqi/mobile-price-classification-using-rfc)
 - [Modeling Car Price using *Support Vector Regression*](https://www.kaggle.com/myazidbaihaqi/modeling-car-price-using-svr)
 - [Iris Classification with Logistic Regression](https://www.kaggle.com/code/myazidbaihaqi/iris-classification-with-logistic-regression)
 - [Modeling Credit Card with *Support Vector Classifier*](https://www.kaggle.com/myazidbaihaqi/modeling-credit-card-with-svc)
