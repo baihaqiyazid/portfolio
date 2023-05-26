@@ -4,6 +4,12 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 
 ## Project
 
+### Backend Engineer / Fullstack Developer
+- [User Authentication with JSON Web Token (JWT) | *Golang*](https://github.com/baihaqiyazid/golang-jwt)
+- [Simple crud API Movie List | *Golang & ReactJS*](https://github.com/baihaqiyazid/movie-app-using-golang-and-react)
+- [Foresell Ecommerce Multi Store | *Laravel, HTML, CSS, Js, Boostrap, MySql*](https://github.com/baihaqiyazid/project-foresell)
+
+### Machine Learning
 - [Recommendation System with *User-based Collaborative Filtering*](https://www.kaggle.com/myazidbaihaqi/user-based-collaborative-filtering)
 - [Recommendation System with *Content-based multiple filtering*](https://www.kaggle.com/myazidbaihaqi/content-based-multiple-filtering)
 - [Recommendation System with *Demographic Filtering*](https://www.kaggle.com/myazidbaihaqi/demographic-filtering)
