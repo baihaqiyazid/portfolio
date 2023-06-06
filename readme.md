@@ -1,6 +1,6 @@
 # Portfolio
 
-Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang mahasiswa S1 jurusan Informatika Universitas Al-Azhar Indonesia. Saya sangat suka bidang data, seperti Data Science, Data Analyst, Machine Learning. Saya sangat minat semua project yang terkait dibidang data, saat ini saya sedang suka dengan NLP dan saya sedang belajar bidang tersebut. Berikut ini adalah beberapa project dan pembelajaran saya yang saya tulis di medium saya.
+Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam membangun API menggunakan golang dan membuat model machine learning yang optimal. Saya memiliki kemampuan pemecahan masalah yang baik, dapat bekerja sendiri maupun dalam tim, dan selalu semangat untuk belajar dan meningkatkan diri dalam teknologi. Saya mencari kesempatan bekerja atau magang di bidang machine learning, data science, backend engineer, atau web developer untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
 
 ## Project
 
@@ -96,6 +96,6 @@ Halo! Nama saya Muhammad Yazid Baihaqi, biasa dipanggil Yazid. Saya seorang maha
 - Twitter: @baihaqy___
 
 ## Contact
-- Email: baihaqiyazid16@gmail.com
+- Email: yazidbaihaqi16@gmail.com
 - Linkedin: [Muhammad Yazid Baihaqi](https://www.linkedin.com/in/muhammad-yazid-baihaqi/)
 
