@@ -2,14 +2,16 @@
 
 Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam membangun API menggunakan golang dan membuat model machine learning yang optimal. Saya memiliki kemampuan pemecahan masalah yang baik, dapat bekerja sendiri maupun dalam tim, dan selalu semangat untuk belajar dan meningkatkan diri dalam teknologi. Saya mencari kesempatan bekerja atau magang di bidang machine learning, data science, backend engineer, atau web developer untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
 
-## Project
+## Mini Project
 
 ### Backend Engineer / Fullstack Developer
 - [User Authentication with JSON Web Token (JWT) | *Golang*](https://github.com/baihaqiyazid/golang-jwt)
 - [Simple crud API Movie List | *Golang & ReactJS*](https://github.com/baihaqiyazid/movie-app-using-golang-and-react)
 - [Foresell Ecommerce Multi Store | *Laravel, HTML, CSS, Js, Boostrap, MySql*](https://github.com/baihaqiyazid/project-foresell)
-
-### Machine Learning
+- Trip Us Mobile App | *Laravel, MySql, Flutter, Firebase*
+  
+### Data Scince
+- Sentiment Analysis with *Logistic Regression, Random Forest, ANN, BERT*
 - [Recommendation System with *User-based Collaborative Filtering*](https://www.kaggle.com/myazidbaihaqi/user-based-collaborative-filtering)
 - [Recommendation System with *Content-based multiple filtering*](https://www.kaggle.com/myazidbaihaqi/content-based-multiple-filtering)
 - [Recommendation System with *Demographic Filtering*](https://www.kaggle.com/myazidbaihaqi/demographic-filtering)
@@ -73,13 +75,18 @@ Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam memba
 
 ## Skills
 
-`Data Science` `Data Analysis` `Data Visualization` 
-`Statistics`  `Python` `Pytorch` `SQL` `Git/Github` 
-`Go` `HTML`  `CSS` `Boostrap`  `Laravel` 
-`Postman API` `ReactJs` 
+### Hard Skills : 
+- Data Science: data labeling, data cleaning, handling imbalanced dataset, data visualization, data transformation, data scaling, modeling machine learning, artificial neural network, bert, pretrained & fine tuning model, model analysis, hyperparameter tuning.
+Backend Dev: create Restful API, user authentication, MySql, logging, Validation, OOP, basic docker, basic linux.
+- Mobile Dev: Flutter, slicing Design, membuat fitur chatting, membuat fitur notification, firebase, payment gateway.   
+- Languages/tools: `Python` `Pytorch` `SQL` `Git/Github` `php` `golang` `flutter` `Go` `Laravel` `Postman API` 
+
+### Soft Skills   : 
+`Problem Solving` `Fast learning` `Team Work` `Communication` `Time Management` `Project Management` `Leadership`
 
 ## Certificates
 
+### Data Science: 
 - [Associate Data Scientist ](https://drive.google.com/file/d/1QfOwQSQd1F4lrK7eJbNli4s1r7BMmgcs/view)
 - [Statistics For Data Science and Machine Learning with Python](https://drive.google.com/file/d/1hfjfUBUBYXdE2bPsbd4OfN_Blo6Ax4Lq/view)
 - [Data Wrangling Python](https://drive.google.com/file/d/1Qw4R9S1mbtmxwk7iQ3cdZ1a2Nis4Pgas/view)
@@ -87,15 +94,21 @@ Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam memba
 - [Python Fundamental for Data Science](https://drive.google.com/file/d/1UX_4DanaU6LYR8KfWLxlIngMSxmjJB_V/view)
 - [R Fundamental for Data Science](https://drive.google.com/file/d/1XGFNEZ96hwDjc15faFIPrmiqbznK3n3v/view)
 - [Statistics using R for Fundamental](https://drive.google.com/file/d/1hqFCxkb8CcO0qjmKYluhVFk0BoVeLnXx/view)
+
+### Backend Developer:
+- [Pemrograman Golang Pemula sampai Mahir](https://drive.google.com/file/d/1Uab4St2Ve8H5as0a6OflgKYkrCdjyq_V/view?usp=sharing)
+- [Docker Pemula sampai Mahir](https://drive.google.com/file/d/1MFzWN9WDgr_r83PfgNmZ_EvLhWP7xXxF/view?usp=sharing)
+- [Red Hat System Administration II (RH134)](https://drive.google.com/file/d/17ntrK76bd928sV5lzNkt9EutBl-B8zBO/view?usp=drive_link)
+
+### Others:
 - [English Grammar tense & Structure](https://drive.google.com/file/d/1ZQVSXUWjhxaPeDbca7aTr_W48WS7p-0j/view)
 
 ## Media
 - Kaggle: https://www.kaggle.com/myazidbaihaqi
 - Github: https://github.com/baihaqiyazid
 - Medium: https://medium.com/@baihaqiyazid16
-- Twitter: @baihaqy___
 
 ## Contact
 - Email: yazidbaihaqi16@gmail.com
-- Linkedin: [Muhammad Yazid Baihaqi](https://www.linkedin.com/in/muhammad-yazid-baihaqi/)
+- Linkedin: [Muhammad Yazid Baihaqi](https://www.linkedin.com/in/muhammad-yazid-baihaqi/) (belum update)
 
