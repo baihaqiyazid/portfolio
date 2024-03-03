@@ -3,12 +3,6 @@
 Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam membangun API menggunakan golang dan membuat model machine learning yang optimal. Saya memiliki kemampuan pemecahan masalah yang baik, dapat bekerja sendiri maupun dalam tim, dan selalu semangat untuk belajar dan meningkatkan diri dalam teknologi. Saya mencari kesempatan bekerja atau magang di bidang machine learning, data science, backend engineer, atau web developer untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
 
 ## Mini Project
-
-### Backend Engineer / Fullstack Developer
-- [User Authentication with JSON Web Token (JWT) | *Golang*](https://github.com/baihaqiyazid/golang-jwt)
-- [Simple crud API Movie List | *Golang & ReactJS*](https://github.com/baihaqiyazid/movie-app-using-golang-and-react)
-- [Foresell Ecommerce Multi Store | *Laravel, HTML, CSS, Js, Boostrap, MySql*](https://github.com/baihaqiyazid/project-foresell)
-- Trip Us Mobile App | *Laravel, MySql, Flutter, Firebase*
   
 ### Data Scince
 - Sentiment Analysis with *Logistic Regression, Random Forest, ANN, BERT*
@@ -38,7 +32,12 @@ Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam memba
 - [Modeling Credit Card with *Support Vector Classifier*](https://www.kaggle.com/myazidbaihaqi/modeling-credit-card-with-svc)
 - [Titanic Survived Classification Using *K-Nearoust Neighbor*](https://www.kaggle.com/code/myazidbaihaqi/titanic-survived-prediction-using-knn)
 
-
+### Backend Engineer / Fullstack Developer
+- [User Authentication with JSON Web Token (JWT) | *Golang*](https://github.com/baihaqiyazid/golang-jwt)
+- [Simple crud API Movie List | *Golang & ReactJS*](https://github.com/baihaqiyazid/movie-app-using-golang-and-react)
+- [Foresell Ecommerce Multi Store | *Laravel, HTML, CSS, Js, Boostrap, MySql*](https://github.com/baihaqiyazid/project-foresell)
+- Trip Us Mobile App | *Laravel, MySql, Flutter, Firebase*
+  
 ## Blog Medium
 
 ### Machine Learning
@@ -102,6 +101,9 @@ Backend Dev: create Restful API, user authentication, MySql, logging, Validation
 
 ### Others:
 - [English Grammar tense & Structure](https://drive.google.com/file/d/1ZQVSXUWjhxaPeDbca7aTr_W48WS7p-0j/view)
+
+## Transkrip Nilai
+Nilai keseluruhan semester 1 - 7. [click here](https://drive.google.com/file/d/1YRv2e7R2DpqWSAxRhTlYo9zVABRY1P6Q/view?usp=drive_link)
 
 ## Media
 - Kaggle: https://www.kaggle.com/myazidbaihaqi
