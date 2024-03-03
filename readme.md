@@ -2,7 +2,11 @@
 
 Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam membangun API menggunakan golang dan membuat model machine learning yang optimal. Saya memiliki kemampuan pemecahan masalah yang baik, dapat bekerja sendiri maupun dalam tim, dan selalu semangat untuk belajar dan meningkatkan diri dalam teknologi. Saya mencari kesempatan bekerja atau magang di bidang machine learning, data science, backend engineer, atau web developer untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
 
-## Mini Project
+## Daftar Isi
+
+1. [Project](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#project)
+
+## Project
   
 ### Data Scince
 - Sentiment Analysis with *Logistic Regression, Random Forest, ANN, BERT*
