@@ -5,6 +5,12 @@ Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam memba
 ## Daftar Isi
 
 1. [Project](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#project)
+2. [Blog Medium](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#blog-medium)
+3. [Skills](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#skills)
+4. [Certificates](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#certificates)
+5. [Transkrip Nilai](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#transkrip-nilai)
+6. [Media](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#media)
+7. [Contact](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#contact)
 
 ## Project
   
