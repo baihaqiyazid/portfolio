@@ -1,6 +1,6 @@
 # Portfolio
 
-Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam membangun API menggunakan golang dan membuat model machine learning yang optimal. Saya memiliki kemampuan pemecahan masalah yang baik, dapat bekerja sendiri maupun dalam tim, dan selalu semangat untuk belajar dan meningkatkan diri dalam teknologi. Saya mencari kesempatan bekerja atau magang di bidang machine learning, data science, backend engineer, atau web developer untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
+Saya seorang Backend Engineer dan Data Scientist dengan pengalaman dalam membangun API menggunakan golang dan membuat model machine learning yang optimal. Saya memiliki kemampuan pemecahan masalah yang baik, dapat bekerja sendiri maupun dalam tim, dan selalu semangat untuk belajar dan meningkatkan diri dalam teknologi. Saya mencari kesempatan bekerja atau magang di bidang machine learning, data science, backend engineer, atau web developer untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
 
 ## Daftar Isi
 
@@ -86,7 +86,7 @@ Saya seorang Backend Engineer dan Machine Learning dengan pengalaman dalam memba
 
 ### Hard Skills : 
 - Data Science: data labeling, data cleaning, handling imbalanced dataset, data visualization, data transformation, data scaling, modeling machine learning, artificial neural network, bert, pretrained & fine tuning model, model analysis, hyperparameter tuning.
-Backend Dev: create Restful API, user authentication, MySql, logging, Validation, OOP, basic docker, basic linux.
+- Backend Dev: create Restful API, user authentication, MySql, logging, Validation, OOP, basic docker, basic linux.
 - Mobile Dev: Flutter, slicing Design, membuat fitur chatting, membuat fitur notification, firebase, payment gateway.   
 - Languages/tools: `Python` `Pytorch` `SQL` `Git/Github` `php` `golang` `flutter` `Go` `Laravel` `Postman API` 
 
