@@ -1,8 +1,10 @@
-# Portfolio
+## About me
 
-Saya seorang Backend Engineer dan Data Scientist dengan pengalaman dalam membangun API menggunakan golang dan membuat model machine learning yang optimal. Saya memiliki kemampuan pemecahan masalah yang baik, dapat bekerja sendiri maupun dalam tim, dan selalu semangat untuk belajar dan meningkatkan diri dalam teknologi. Saya mencari kesempatan bekerja atau magang di bidang machine learning, data science, backend engineer, atau web developer untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
+I am a Backend Engineer and Data Scientist with experience in building APIs using golang and creating optimized machine learning models. I have good problem solving skills, can work alone or in a team, and always eager to learn and improve myself in the field of technology.  
 
-## Daftar Isi
+I am currently working at PT Solusi 247 as a Jr. Data Scientist.
+
+## Table of Contents
 
 1. [Project](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#project)
 2. [Blog Medium](https://github.com/baihaqiyazid/portfolio?tab=readme-ov-file#blog-medium)
