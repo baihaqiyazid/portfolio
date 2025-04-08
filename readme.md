@@ -2,7 +2,7 @@
 
 I am a Backend Engineer and Data Scientist with experience in building APIs using golang and creating optimized machine learning models. I have good problem solving skills, can work alone or in a team, and always eager to learn and improve myself in the field of technology.  
 
-I am currently working at PT Solusi 247 as a Jr. Data Scientist.
+I am currently working as a Jr. Data Scientist.
 
 ## Table of Contents
 
