@@ -16,7 +16,11 @@ I am currently working as a Jr. Data Scientist.
 
 ## Project
   
-### Data Scince
+### Data Scince and AI
+- [Agent AI Discount Workflow with Notification *OpenAI, Ensemble Agent, Push Over*](https://github.com/baihaqiyazid/LLM_project/tree/main/agent_ai)
+- [Price Prediction *Vector Database, Chroma, QWEN, Random Forest, OpenAI, Fined Tuned Model, Peft, QLora*](https://github.com/baihaqiyazid/LLM_project/tree/main/price_prediction)
+- [HR and IT Assistant Chatbot *RAG, Langchain, OpenAI*](https://github.com/baihaqiyazid/LLM_project/tree/main/hr_it_assistant)
+- [Brochure Generator *OpenAI, BeautifulSoup*](https://github.com/baihaqiyazid/LLM_project/blob/main/brochure.ipynb)
 - Sentiment Analysis with *Logistic Regression, Random Forest, ANN, BERT*
 - [Recommendation System with *User-based Collaborative Filtering*](https://www.kaggle.com/myazidbaihaqi/user-based-collaborative-filtering)
 - [Recommendation System with *Content-based multiple filtering*](https://www.kaggle.com/myazidbaihaqi/content-based-multiple-filtering)
