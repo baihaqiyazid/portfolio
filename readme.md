@@ -89,7 +89,8 @@ I am a Bachelor of Informatics graduate with a strong foundation in backend deve
 ## Skills
 
 ### Hard Skills : 
-- Data Science: data labeling, data cleaning, handling imbalanced dataset, data visualization, data transformation, data scaling, modeling machine learning, artificial neural network, bert, pretrained & fine tuning model, model analysis, hyperparameter tuning.
+- Data Science: data labeling, data cleaning, handling imbalanced dataset, data visualization, data transformation, data scaling, modeling machine learning, artificial neural network, bert, pretrained & fine tuning model, model analysis, hyperparameter tuning, LLM Engineer.
+- Big Data: Hadoop, Spark, Scala, Java, Python, Maven, Yarn, Oozie, AWS.
 - Backend Dev: create Restful API, user authentication, MySql, logging, Validation, OOP, basic docker, basic linux.
 - Mobile Dev: Flutter, slicing Design, membuat fitur chatting, membuat fitur notification, firebase, payment gateway.   
 - Languages/tools: `Python` `Pytorch` `SQL` `Git/Github` `php` `golang` `flutter` `Go` `Laravel` `Postman API` 
@@ -100,17 +101,19 @@ I am a Bachelor of Informatics graduate with a strong foundation in backend deve
 ## Certificates
 
 ### Data Science: 
+- [AWS Cloud Practitioner](https://www.udemy.com/certificate/UC-3bbd5012-2e4f-4520-9cbd-d1dba63dba20/)
+- [Hadoop Big Data](https://www.udemy.com/certificate/UC-e73e7c84-43fb-4e7a-85de-47f1b916606c/)
 - [Associate Data Scientist ](https://drive.google.com/file/d/1QfOwQSQd1F4lrK7eJbNli4s1r7BMmgcs/view)
-- [Statistics For Data Science and Machine Learning with Python](https://drive.google.com/file/d/1hfjfUBUBYXdE2bPsbd4OfN_Blo6Ax4Lq/view)
-- [Data Wrangling Python](https://drive.google.com/file/d/1Qw4R9S1mbtmxwk7iQ3cdZ1a2Nis4Pgas/view)
-- [Fundamental SQL using SELECT statement](https://drive.google.com/file/d/19ApG-dc6gCsTCvzGIeTR-y8lXiNzBH6H/view)
-- [Python Fundamental for Data Science](https://drive.google.com/file/d/1UX_4DanaU6LYR8KfWLxlIngMSxmjJB_V/view)
-- [R Fundamental for Data Science](https://drive.google.com/file/d/1XGFNEZ96hwDjc15faFIPrmiqbznK3n3v/view)
-- [Statistics using R for Fundamental](https://drive.google.com/file/d/1hqFCxkb8CcO0qjmKYluhVFk0BoVeLnXx/view)
+- [Statistics For Data Science and Machine Learning with Python](https://www.udemy.com/certificate/UC-8db4c8d7-83e3-4481-b473-cd36b46c1313/)
+- [Data Wrangling Python](https://academy.dqlab.id/Certificate_check/result/DQLABDTWP1KCRAVO#mycertificate)
+- [Fundamental SQL using SELECT statement](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1QLQHAJ#mycertificate)
+- [Python Fundamental for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1QLQHAJ#mycertificate)
+- [R Fundamental for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTR1NJCGKL#mycertificate)
+- [Statistics using R for Fundamental](https://academy.dqlab.id/Certificate_check/result/DQLABINTS1QAKQQG#mycertificate)
 
 ### Backend Developer:
-- [Pemrograman Golang Pemula sampai Mahir](https://drive.google.com/file/d/1Uab4St2Ve8H5as0a6OflgKYkrCdjyq_V/view?usp=sharing)
-- [Docker Pemula sampai Mahir](https://drive.google.com/file/d/1MFzWN9WDgr_r83PfgNmZ_EvLhWP7xXxF/view?usp=sharing)
+- [Pemrograman Golang Pemula sampai Mahir](https://www.udemy.com/certificate/UC-b4a6b5cc-4d6b-4479-a8a5-6913cceddc59/)
+- [Docker Pemula sampai Mahir](https://www.udemy.com/certificate/UC-edec01ed-d2d0-4bf0-bbbe-eba1c6214d51/)
 - [Red Hat System Administration II (RH134)](https://drive.google.com/file/d/17ntrK76bd928sV5lzNkt9EutBl-B8zBO/view?usp=drive_link)
 
 ### Others:
