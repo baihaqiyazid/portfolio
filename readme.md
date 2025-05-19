@@ -1,8 +1,6 @@
 ## About me
 
-I am a Backend Engineer and Data Scientist with experience in building APIs using golang and creating optimized machine learning models. I have good problem solving skills, can work alone or in a team, and always eager to learn and improve myself in the field of technology.  
-
-I am currently working as a Jr. Data Scientist.
+I am a Bachelor of Informatics graduate with a strong foundation in backend development and a primary focus on Artificial Intelligence (AI), Data Science, and Machine Learning (ML). Experienced as a Junior Data Scientist and Spark Developer in big data environments, I specialize in building Machine Learning and Deep Learning models, as well as processing text and image data using technologies like PyTorch, Transformers, and Hugging Face. Additionally, I possess expertise as an LLM Engineer, with skills in designing and optimizing solutions based on Large Language Models. I am passionate about contributing to innovative, data-driven projects that deliver meaningful impact.
 
 ## Table of Contents
 
